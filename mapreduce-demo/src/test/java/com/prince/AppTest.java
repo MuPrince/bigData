@@ -1,4 +1,4 @@
-package org.prince;
+package com.prince;
 
 import static org.junit.Assert.assertTrue;
 
